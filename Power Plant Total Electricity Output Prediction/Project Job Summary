@@ -4,3 +4,4 @@ About the project:
 •	Found all four variables to be significant features through checking the P-values of each variables in OLS Regression results
 
 Technologies used: Python, Spyder 3.3.2, Pandas, Matplotlib, seaborn, scikit-learn, statsmodels
+
