@@ -1,0 +1,5 @@
+About the project:
+•	An individual case study based on Instacart dataset provided through their public API
+•	Drawn insights about consumer shopping behavior in order to develop a strategy for healthy meal plans 
+
+Technologies used: Apache Hadoop, HDFS, Apache Hive, HiveQL
