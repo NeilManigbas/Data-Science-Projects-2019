@@ -1,3 +1,4 @@
+About this project:
 •	An individual project based on Metro Big Mart sales data for 1559 products across 10 stores in different cities
 •	Produced the best predictive model with an adjusted R-squared score of 59.44% using Random Forest algorithm to find out the sales of each product at a particular store
 •	Performed statistical analysis such as variable correlation analysis for data exploration and produced informational graphs
