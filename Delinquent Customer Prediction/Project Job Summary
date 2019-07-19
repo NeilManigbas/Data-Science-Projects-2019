@@ -1,0 +1,12 @@
+About this project:
+•	An individual project based on Home Equity Loan dataset with 5,960 mortgage applicants
+•	Produced a good logistic model for prediction with concordance rate of 89.3% and predicted delinquent rate of 96.4% in top quantile
+•	Performed simple dataset content procedure to understand the data
+•	Converted character values to numerical by creating dummy variable for data preparation
+•	Partitioned observations into groups based on ranks
+•	Created a macro function to plot and tabulate Log Response Ratio to find out the average value to fill into the missing values
+•	Determined important drivers and suppressors for the final model by stepwise selection procedure
+•	Created and visualized a lift chart using SAS Proc Tabulate and MS Excel to evaluate the performance of the model
+•	Used Max-KS test to validate model performance
+
+Technologies used: SAS, SAS 9.4 Studio, SAS Macros
