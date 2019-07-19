@@ -1,5 +1,6 @@
 About the Project:
 •	A small project about Canadian Motor Vehicle Traffic Collision insights with records from 2004 to 2014
+•	Dataset is too large to be uploaded to this site. Go to https://www.kaggle.com/tbsteal/canadian-car-accidents-19942014
 •	Performed coding, statistical analysis and data insights
 
 Technologies used: Python, Spyder 3.3.2, Pandas, NumPy, Matplotlib
