@@ -1,0 +1,6 @@
+About the project:
+•	An individual project based on 9568 data points collected from a Combined Cycle Power Plant over 6 years
+•	Produced a good linear regression model to predict the combined total electricity output generated through the gas turbines and steam turbines with a prediction score of 92.7% using Adjusted R-square scoring
+•	Found all four variables to be significant features through checking the P-values of each variables in OLS Regression results
+
+Technologies used: Python, Spyder 3.3.2, Pandas, Matplotlib, seaborn, scikit-learn, statsmodels
