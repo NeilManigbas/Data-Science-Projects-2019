@@ -1,0 +1,11 @@
+•	An individual project based on Metro Big Mart sales data for 1559 products across 10 stores in different cities
+•	Produced the best predictive model with an adjusted R-squared score of 59.44% using Random Forest algorithm to find out the sales of each product at a particular store
+•	Performed statistical analysis such as variable correlation analysis for data exploration and produced informational graphs
+•	Executed data cleaning by imputing null values
+•	Applied feature engineering by combining associated features to become one useful feature which helped produce a more accurate prediction model
+•	Converted categorical data types to numerical by Label Encoding method
+•	Performed GridSearch and cross-validation method to find best parameters for each regression algorithms
+•	Determined the best algorithm for the project by creating a function to compare prediction scores between different popular machine learning algorithms such as Linear Regression, Ridge Regression, KNN, Adaboost, Decision Tree, and Random Forest
+•	Determined the properties of products and stores which play a key role in increasing sales by plotting the model coefficients and important features
+
+Technologies used: Python, Spyder 3.3.2, Pandas, NumPy, Matplotlib, seaborn, scikit-learn, SciPy
