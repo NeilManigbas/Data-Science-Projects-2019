@@ -1,3 +1,4 @@
+About this project:
 •	A project about spam classification from 5572 SMS records
 •	Produced a prediction model with 97.56% accuracy score
 •	Performed text processing with the help of Regular Expressions, and NLTK python package
