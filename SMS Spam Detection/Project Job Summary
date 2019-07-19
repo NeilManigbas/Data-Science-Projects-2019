@@ -8,4 +8,3 @@ About this project:
 •	Applied GridSearch function to find best parameters for the model
 
 Technologies used: Python, Spyder 3.3.2, Pandas, scikit-learn, NLTK (Natural Language Toolkit), RegEx
-
