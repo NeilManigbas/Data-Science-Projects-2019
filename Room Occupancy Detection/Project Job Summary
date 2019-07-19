@@ -1,0 +1,5 @@
+About the project:
+•	An individual data mining project from the dataset acquired from environmental sensors such as light, temperature, humidity and CO2 sensors, that can detect the change in the environment due to the presence of a human
+•	Produced a Decision Tree classification model with high accuracy score average of 99.37%
+
+Technologies used: Python, Spyder 3.3.2, Pandas, Matplotlib, seaborn, scikit-learn, SciPy, statsmodels
