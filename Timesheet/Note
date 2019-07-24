@@ -1,1 +1,7 @@
 This file is created voluntarily to automate and "fool proof" the timesheet for Watchnet Inc. with the help of Excel Macros.
+
+This file saves a new file automatically in the same folder when a button was clicked or when the date is altered.
+This file disables cut, copy and paste in order not to mess the overall format.
+This also disables the Save As option to control all saving features.
+Cells that can be edited are predefined.
+Each editable cells validate the type of data that can be entered.
